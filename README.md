@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRASHANTH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greencoderprashu&label=Profile%20views&color=0e75b6&style=flat" alt="greencoderprashu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=greencoderprashu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greencoderprashu" alt="greencoderprashu" /></a> </p>
 
 - 🔭 I’m currently working on **Online shopping web**
 
@@ -11,12 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Tourism web design**
 
-- 💬 Ask me about **Back end**
+- 💬 Ask me about **Front-End end**
 
 - 📫 How to reach me **Pr9449314@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  E-mail :- **Pr9449314@gmail.com**  OR **Pr829639@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greencoderprashu&show_icons=true&locale=en" alt="greencoderprashu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greencoderprashu&" alt="greencoderprashu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greencoderprashu&" alt=" Streaks " /></p>
