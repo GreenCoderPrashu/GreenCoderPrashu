@@ -16,11 +16,6 @@
 
 - 📫 How to reach me **Pr9449314@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  E-mail :- <a href="Pr9449314@gmail.com">connect Officially</a> OR <a href="Pr829639@gmail.com">connect personally</a>
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greencoderprashu&show_icons=true&locale=en&layout=compact" alt="greencoderprashu" /></p>
 
