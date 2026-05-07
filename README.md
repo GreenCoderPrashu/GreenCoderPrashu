@@ -6,13 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greencoderprashu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- 🔭 I’m currently working on **Online shopping web**
 
 - 🌱 I’m currently learning **Full Stack Developing**
-
-- 👯 I’m looking to collaborate on **Tourism web design**
-
-- 💬 Ask me about **Front-End end**
 
 - 📫 How to reach me **Pr9449314@gmail.com**
 
