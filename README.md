@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Full Stack Developing**
+- 🌱 I'm currently learning **Full Stack Developing**
 
 - 📫 How to reach me **Pr9449314@gmail.com**
 
