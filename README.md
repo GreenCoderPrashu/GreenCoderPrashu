@@ -6,6 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=GreenCoderPrashu&label=Profile%20views&color=00FFFF&style=flat-square" alt="GreenCoderPrashu's profile views" />
   </a>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GreenCoderPrashu&theme=dark&hide_border=true&cache_seconds=86400" alt="GreenCoderPrashu's GitHub Streak" width="49%" />
+</p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
@@ -22,10 +25,7 @@
 - Web Development, Coding, Editing, Writing Own Books.
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GreenCoderPrashu&theme=dark&hide_border=true&cache_seconds=86400" alt="GreenCoderPrashu's GitHub Streak" width="49%" />
-</p>
+## 📊 GitHub Activity Graph.
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GreenCoderPrashu&theme=dark&radius=10" alt="GreenCoderPrashu's Activity Graph" />
 </p>
