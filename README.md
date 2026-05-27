@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=PRASHANTH%20%5BPRASHU%5D&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=My%20Vibe%20Speaks%20Louder%20Than%20Words." alt="Typing introduction" />
-</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=GreenCoderPrashu">
@@ -11,6 +8,10 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=My%20Vibe%20Speaks%20Louder%20Than%20Words." alt="Typing introduction" />
+</p>
 
 ## 📌 About Me
 - I'm currently learning Full Stack Developing.
