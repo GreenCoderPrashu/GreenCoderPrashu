@@ -58,16 +58,6 @@
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/greencoderprashu"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/919449314734"><img src="https://skillicons.dev/icons?i=whatsapp" width="40"/></a>&nbsp;&nbsp;
-  <a href="mailto:pr9449314@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>&nbsp;&nbsp;
-  <a href="https://greencoderprashu.github.io/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
-
----
-
 ⭐️ If you like my work, consider following or starring my repositories!
 
 
